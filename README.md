@@ -1,6 +1,6 @@
 # Introduction to Python language
 
-[![Binder](https://mybinder.org/badge.svg)(https://mybinder.org/v2/gh/mrastgoo/introduction-to-python/HEAD)]
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mrastgoo/introduction-to-python/HEAD)
 
 We introduce here the Python language. 
 The material presented are in reference form [scipy-lecture-notes](http://www.scipy-lectures.org/intro/index.html). 
