@@ -5,7 +5,7 @@
 We introduce here the Python language. 
 The material presented are in reference form [scipy-lecture-notes](http://www.scipy-lectures.org/intro/index.html). 
 To learn more about the language, consider going through the
-excellent tutorials on scipy-lectures.
+excellent tutorials on https://docs.python.org/tutorial and scipy-lectures. 
 
 Python is a **programming language**, as are C, Fortran, BASIC, PHP,
 etc. Some specific features of Python are as follows:
